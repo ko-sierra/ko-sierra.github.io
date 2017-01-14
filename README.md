@@ -1,3 +1,3 @@
 # ko-sierra.github.io
 github pages
-# Bootstrapを使ったポートファリオその１
+# Bootstrapを使ったポートフォリオその１
