@@ -41,7 +41,8 @@
         });
     });
     
-$(function() {
+     // pagetop
+     $(function() {
 	var topBtn = $('#page-top');	
 	topBtn.hide();
 	$(window).scroll(function () {
@@ -57,7 +58,7 @@ $(function() {
 			scrollTop: 0
 		}, 500);
 		return false;
-    });
-});
+          });
+     });
 
 })(jQuery); // End of use strict
