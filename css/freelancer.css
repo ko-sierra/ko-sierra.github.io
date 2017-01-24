@@ -504,26 +504,25 @@ fieldset[disabled] .btn-success.active {
   display: none;
 }
 
-/*jQuery*/
-
 /*ページスクロール*/
+/* ページトップ */
 #page-top {
     position: fixed;
     bottom: 20px;
     right: 20px;
-    font-size: 77%;
+    font-size: 80%;
 }
 #page-top a {
     background: #666;
     text-decoration: none;
     color: #fff;
     width: 100px;
-    padding: 30px 0;
+    padding: 25px 0;
     text-align: center;
     display: block;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 #page-top a:hover {
     text-decoration: none;
     background: #999;
-} 
+}
