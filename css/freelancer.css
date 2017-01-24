@@ -502,27 +502,4 @@ fieldset[disabled] .btn-success.active {
 .portfolio-modal .modal-backdrop {
   opacity: 0;
   display: none;
-}
 
-/*ページスクロール*/
-/* ページトップ */
-#page-top {
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    font-size: 80%;
-}
-#page-top a {
-    background: #666;
-    text-decoration: none;
-    color: #fff;
-    width: 100px;
-    padding: 25px 0;
-    text-align: center;
-    display: block;
-    border-radius: 10px;
-}
-#page-top a:hover {
-    text-decoration: none;
-    background: #999;
-}
